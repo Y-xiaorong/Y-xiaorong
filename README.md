@@ -49,6 +49,7 @@
   </a>
 </p>
 
+
 ## 📘 My top open source projects
 
 <table>
@@ -93,6 +94,13 @@
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
+## Repositroy
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Y-xiaorong's Github Repositroy" src="https://github-readme-stats.vercel.app/api/pin/?username=Y-xiaorong&repo=github-readme-stats" /></a>
+</details>
+
+
+
 ## 👨‍💻 Languages and Tools:
 
 <table>
@@ -120,8 +128,9 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Y-xiaorong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Y-xiaorong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Y-xiaorong&show_icons=true&count_private=true&hide=" /></a>
 </details>
+
 
 <details> 
   <summary>💻 Most used languages</summary>
@@ -136,5 +145,6 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+
 
 
