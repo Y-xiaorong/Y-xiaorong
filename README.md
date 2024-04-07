@@ -1,3 +1,8 @@
+![image](https://s1.ax1x.com/2023/04/30/p98PDiR.png)
+
+<a href="#"><img width="100%" height="auto" src="https://s1.ax1x.com/2023/04/30/p98PDiR.png" height="175px"/></a>
+
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">Hi there, I'm <a href="https://freshidea.com/jonah/">Xiaorong</a>   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/></h3>
@@ -51,7 +56,7 @@ const thai = {
   </tbody>
 </table>
 
-### Repositroy <img scr='https://img.17sucai.com/upload/1424582/2019-12-03/638be55cc06512e3d6e0debf927d77da.jpg?x-oss-process=style/big'>
+### Repositroy 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Y-xiaorong's Github Repositroy" src="https://github-readme-stats.vercel.app/api/pin/?username=Y-xiaorong&repo=github-readme-stats" /></a>
 </details>
