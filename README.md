@@ -1,6 +1,3 @@
-![image](https://s1.ax1x.com/2023/04/30/p98PDiR.png)
-
-<a href="#"><img width="100%" height="auto" src="https://s1.ax1x.com/2023/04/30/p98PDiR.png" height="175px"/></a>
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
