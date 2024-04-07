@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Y-xiaorong"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Y-xiaorong?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=”https://github-profile-trophy.vercel.app/?username=Y-xiaorong“ alt=”Y-xiaorong“ /></a> 
+  
 </p>
 
 <div align='left'>
