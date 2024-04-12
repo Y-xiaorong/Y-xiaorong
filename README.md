@@ -1,6 +1,5 @@
 
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://file.moyublog.com/d/file/2021-10-25/3f249db900804332ff6fb17e3426cdc7.png" width="50"/></a>
 
 <h3 align="center">Hi there, I'm <a href="https://freshidea.com/jonah/">Xiaorong</a>   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/></h3>
 
